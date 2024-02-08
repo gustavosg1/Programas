@@ -1,4 +1,4 @@
-package Estrelles;
+package UF2.Estrelles.Estrelles;
 public class ImprimirEstrellesGuionesYNumeros{
     public static void main (String[] args){
         ImprimirEstrellesGuionesYNumeros program =  new ImprimirEstrellesGuionesYNumeros();
